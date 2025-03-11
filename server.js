@@ -15,16 +15,16 @@ app.use("/api/profanity", profanityRoutes);
 app.use("/api/words", wordRoutes);
 
 app.get("/", (req, res) => {
-    res.send("✅ Server is Running!");
+    res.send("Server is Running!");
 });
 
 app.listen(PORT, () => {
-    console.log(`🚀 Server running on port ${PORT}`);
+    console.log(`Server running on port ${PORT}`);
 }).on("error", (err) => {
     if (err.code === "EADDRINUSE") {
-        console.log(`⚠️ Port ${PORT} is in use. Trying a new port...`);
+        console.log(`Port ${PORT} is in use. Trying a with another port...`);
         app.listen(0, () => {
-            console.log(`🚀 Server running on a new port`);
+            console.log(`Server running on a new port`);
         });
     } else {
         console.error(err);
