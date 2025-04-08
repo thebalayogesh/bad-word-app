@@ -20,3 +20,18 @@
 {
   "text": "This is a damn bad example."
 }
+
+---
+
+### 3. **Postman** + Postman Badge  
+🌐 https://www.postman.com  
+✅ Share collection links  
+✅ GitHub integration  
+✅ API monitoring + testing
+
+**Steps**:
+- Share a Postman collection (public workspace)
+- Add this to your README:
+
+```markdown
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/your-team/workspace/your-collection)
