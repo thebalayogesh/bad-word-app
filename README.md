@@ -12,7 +12,7 @@
 
 ## POST REQUEST - CHECK IS BAD WORD OR NOT
 
-[![IS THIS IS BAD WORD ( POST )](https://hopp.sh/badge.svg)](https://hopp.sh/r/VAdv36MjQaxQ)
+[![IS THIS IS BAD WORD ( POST )](https://hopp.sh/badge.svg)](https://hopp.sh/r/AfGJJpo55MjB)
 
 ## POST REQUEST - ADD BAD WORD IN DATABASE
 
