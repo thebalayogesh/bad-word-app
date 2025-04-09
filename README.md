@@ -5,17 +5,16 @@
 - ⚙️ **Custom Bad Words List**
 - 📁 backend with **Supabase**
 
-[Test this API on Hoppscotch](https://hoppscotch.io/?method=GET&url=https://bad-word-app-demo.vercel.app/)
+# api endpoints 
+## GET REQUEST - IS SERVER IS LIVE 
 
-### 🧪 Try It Out: Bad Word Check API
+[![IS SERVER IS LIVE ( GET )](https://hopp.sh/badge.svg)](https://hopp.sh/r/EOqPa5bVmdV7)
 
-[![Test with Hoppscotch](https://img.shields.io/badge/Test%20API-Hoppscotch-4caf50?logo=postwoman)](https://hoppscotch.io/?method=POST&url=http://localhost:8000/check&contentType=application/json&body=%7B%22text%22%3A%22this%20is%20a%20test%20damn%20word%22%7D)
+## POST REQUEST - CHECK IS BAD WORD 
 
-> Method: `POST`  
-> Endpoint: `/check`  
-> Body:
-```json
-{
-  "text": "this is a test damn word"
-}
+[![IS THIS IS BAD WORD ( POST )](https://hopp.sh/badge.svg)](https://hopp.sh/r/VAdv36MjQaxQ)
+
+## POST REQUEST - ADD BAD WORD 
+
+[![ADDING BAD WORD TO DB ( POST )](https://hopp.sh/badge.svg)](https://hopp.sh/r/VAdv36MjQaxQ)
 
