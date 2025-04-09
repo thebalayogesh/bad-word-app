@@ -10,11 +10,15 @@
 
 [![IS SERVER IS LIVE ( GET )](https://hopp.sh/badge.svg)](https://hopp.sh/r/EOqPa5bVmdV7)
 
-## POST REQUEST - CHECK IS BAD WORD 
+## POST REQUEST - CHECK IS BAD WORD OR NOT
 
 [![IS THIS IS BAD WORD ( POST )](https://hopp.sh/badge.svg)](https://hopp.sh/r/VAdv36MjQaxQ)
 
-## POST REQUEST - ADD BAD WORD 
+## POST REQUEST - ADD BAD WORD IN DATABASE
 
-[![ADDING BAD WORD TO DB ( POST )](https://hopp.sh/badge.svg)](https://hopp.sh/r/VAdv36MjQaxQ)
+[![ADDING BAD WORD TO DB ( POST )](https://hopp.sh/badge.svg)](https://hopp.sh/r/0J84lozVqkYC)
+
+## POST REQUEST - DELETE BAD WORD IN DATABASE
+
+[![DELETING BAD WORD IN DB ( POST )](https://hopp.sh/badge.svg)](https://hopp.sh/r/IsIg1KbfKobm)
 
